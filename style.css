@@ -1,0 +1,12 @@
+fieldset{
+  border: 3;
+  float: left;
+  margin-right: 3em;
+}
+
+body{
+  background-color: rgb(46, 167, 167);
+  font-family: sans-serif;
+  width: 100%;
+  padding: 0px;
+}
